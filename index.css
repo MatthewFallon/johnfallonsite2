@@ -47,6 +47,7 @@ main p {
 @media max-width:600px {
     nav ul {
         grid-auto-flow: row;
+        background-color: red;
     }
     main {
         width: 100%;
