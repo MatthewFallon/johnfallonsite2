@@ -16,6 +16,7 @@ nav ul {
 nav li {
     list-style: none;
     display: inline;
+    padding: 10px;
 }
 nav img {
     height: 90%;
