@@ -16,7 +16,7 @@ nav ul {
 }
 nav li {
     list-style: none;
-    display: inline;
+    display: block;
     padding: 10px;
 }
 nav img {
