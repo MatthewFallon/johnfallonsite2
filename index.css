@@ -22,6 +22,7 @@ nav img {
 nav li:first-child a {
     border: none;
     background-color: white;
+    padding: none;
 }
 nav li a {
     color: blue;
