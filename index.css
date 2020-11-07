@@ -3,8 +3,8 @@ body {
     font-size: 12pt;
 }
 nav {
-    width: 90%;
     margin: 0 auto;
+    border-bottom: 1px solid blue;
 }
 nav ul {
     display: grid;
