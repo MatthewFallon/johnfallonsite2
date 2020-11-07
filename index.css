@@ -12,7 +12,7 @@ nav ul {
     align-items: center;
     justify-items: center;
     grid-auto-flow: column;
-    border-bottom: 1px solid blue;
+    border-bottom: 3px solid blue;
 }
 nav li {
     list-style: none;
@@ -21,7 +21,7 @@ nav li {
 }
 nav img {
     height: 90%;
-    border: 2px solid blue;
+    border: 1px solid blue;
 }
 nav li:last-child a {
     color: blue;
