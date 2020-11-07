@@ -22,18 +22,18 @@ nav img {
     height: 90%;
     border: 2px solid blue;
 }
-nav li:first-child a {
-    border: none;
-    background-color: none;
-    padding: none;
-    margin: none
-}
 nav li a {
     color: blue;
     text-decoration: none;
     border: blue 1px solid;
     padding: 40px 25px;
     background-color: rgb(237, 246, 248);
+}
+nav li:first-child a {
+    border: none;
+    background-color: none;
+    padding: none;
+    margin: none
 }
 main {
     width: 60%;
