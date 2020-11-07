@@ -24,7 +24,7 @@ nav img {
 }
 nav li:first-child a {
     border: none;
-    background-color: white;
+    background-color: none;
     padding: none;
     margin: none
 }
