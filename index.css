@@ -16,7 +16,6 @@ nav ul {
 nav li {
     list-style: none;
     display: inline;
-    padding: 0 25px;
 }
 nav img {
     height: 90%;
@@ -26,6 +25,7 @@ nav li:first-child a {
     border: none;
     background-color: white;
     padding: none;
+    margin: none
 }
 nav li a {
     color: blue;
