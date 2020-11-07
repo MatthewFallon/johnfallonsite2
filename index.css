@@ -10,6 +10,7 @@ nav {
 nav ul {
     display: grid;
     align-items: center;
+    justify-items: center;
     grid-auto-flow: column;
     border-bottom: 1px solid blue;
 }
