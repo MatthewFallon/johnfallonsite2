@@ -13,6 +13,7 @@ nav ul {
     justify-items: center;
     grid-auto-flow: column;
     border-bottom: 3px solid blue;
+    padding: 1px 0;
 }
 nav li {
     list-style: none;
