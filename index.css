@@ -6,12 +6,12 @@ body {
 }
 nav {
     margin: 0 auto;
-    border-bottom: 1px solid blue;
 }
 nav ul {
     display: grid;
     align-items: center;
     grid-auto-flow: column;
+    border-bottom: 1px solid blue;
 }
 nav li {
     list-style: none;
