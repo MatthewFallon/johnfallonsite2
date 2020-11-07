@@ -22,7 +22,7 @@ nav img {
     height: 90%;
     border: 2px solid blue;
 }
-nav li a {
+nav li:last-child a {
     color: blue;
     text-decoration: none;
     border: blue 1px solid;
