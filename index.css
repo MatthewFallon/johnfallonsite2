@@ -20,7 +20,6 @@ nav li {
     padding: 10px;
 }
 nav img {
-    height: 90%;
     border: 1px solid blue;
 }
 nav li:last-child a {
@@ -45,3 +44,12 @@ main p {
     margin: 0 auto;
     font-size: 16pt;
 }
+@media max-width:600px {
+    nav ul {
+        grid-auto-flow: row;
+    }
+    main {
+        width: 100%;
+    }
+}
+    
